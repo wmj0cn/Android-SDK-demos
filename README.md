@@ -33,6 +33,7 @@
 * 如何给应用加入全局搜索功能，便捷地找到所需要的信息
 
 Todo页：
+
 ![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
 
 应用内搜索页：
