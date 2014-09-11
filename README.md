@@ -32,10 +32,13 @@
 * 如何为应用加入统计功能，统计相应的事件，从而分析用户喜好
 * 如何给应用加入全局搜索功能，便捷地找到所需要的信息
 
-Todo页与应用内搜索页，
+Todo页，
 
 ![img](https://raw.githubusercontent.com/lzwjava/plan/master/android-todo-360.png)
-    ![img](https://raw.githubusercontent.com/lzwjava/plan/master/todo360.png)
+
+应用内搜索页，
+
+![img](https://raw.githubusercontent.com/lzwjava/plan/master/todo360.png)
 
 
 
