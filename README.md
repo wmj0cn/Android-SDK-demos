@@ -9,6 +9,7 @@
 * [keepalive](./keepalive),是实时聊天系统的例子,包括了用户间聊天和群聊功能等。
 
 
+[AVOS Cloud 站点下载地址](https://download.avoscloud.com/demo/)
 
 ##推送Demo 
 #### 你可以从推送 Demo 中学到，
